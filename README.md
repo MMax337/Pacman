@@ -8,6 +8,9 @@ This project is a clone of the classic PACMAN game implemented using Pygame. The
 - **Ghost AI**: Implement basic AI for ghost movements to create challenges for the player.
 - **Levels**: Progress through levels with increasing difficulty.
 
+### Gameplay Preview
+![PACMAN Gameplay](https://github.com/MMax337/Pacman/blob/main/gameplay/pacman_gameplay.gif)
+![PACMAN WIN](https://github.com/MMax337/Pacman/blob/main/gameplay/pacman_win.png)
 
 
 ### Installation
